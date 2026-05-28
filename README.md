@@ -1,7 +1,4 @@
-# HAPS-hFF1.0
-
-````markdown
-# HAPS-hFF1.0
+**HAPS-hFF1.0**
 
 **Revisiting Unidentified Charged-Hadron Fragmentation Functions with Modern COMPASS SIDIS Multiplicities**
 
@@ -34,5 +31,4 @@ Please check the license file of this repository before redistribution or use in
 
 If no license file is present, contact the authors before redistributing the grids or derived material.
 
-```
 ```
