@@ -1,8 +1,8 @@
-SetDesc: 'LHAPDFSet - pi^+ FF fit at NLO - mem=0 => average over replicas, mem=1-200 => Monte Carlo replicas - set generated with APFEL++'
+SetDesc: 'LHAPDFSet - h^+ FF fit at NLO - mem=0 => average over replicas, mem=1-200 => Monte Carlo replicas - set generated with APFEL++'
 SetIndex: 0000000
 SetType: fragfn
-Authors: R. Abdul Khalek, V. Bertone, A. Khoudli, E. R. Nocera
-Reference: arXiv:xxxx.xxxxx
+Authors: Maryam Soleymaninia, Hamzeh Khanpour, Hubert Spiesberger, Majid Azizi, Michael Klasen, Hadi Hashamipour
+Reference: arXiv:2605.31325 [hep-ph]
 Format: lhagrid1
 DataVersion: 1
 Particle: 211
